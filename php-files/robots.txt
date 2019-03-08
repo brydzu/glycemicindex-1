@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /logout.php
+Sitemap: http://www.glycemicindex.info/sitemap_location.xml
